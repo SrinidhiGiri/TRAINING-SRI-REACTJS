@@ -1,3 +1,4 @@
+// comparison between == and ===
 console.log("== and ===");
 var value4 = "188";
 var value5 = "1808";
